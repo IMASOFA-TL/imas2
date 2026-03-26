@@ -1,19 +1,18 @@
 # site properties and page defaults
-title: IMASOFA-TL
+title: 偶像大师2汉化项目
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
-proofer: false
+description: 偶像大师2汉化项目
+header: images/header-background.jpg
+footer: images/footer-background.jpg
+header-dark: false
+footer-dark: false
 
 # site social media and other links
 links:
-  email: contact@IMASOFA-TL.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: waldenth@outlook.com
   github: IMASOFA-TL
-  twitter: IMASOFA-TL
-  youtube: IMASOFA-TL
+  bilibili: "31914896"
+  friendlylink: ""
 
 ### jekyll settings
 
