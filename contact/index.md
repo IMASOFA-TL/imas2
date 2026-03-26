@@ -1,77 +1,60 @@
 ---
-title: Contact
+title: 加入我们
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: 邮件，QQ群
+header: images/header-background.jpg
+footer: images/footer-background.jpg
+header-dark: false
+footer-dark: false
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+偶像大师2汉化项目现在拟招募人手进行IM@S2的汉化，要求愿意听从统一安排，
+能够按时按量完成对应的任务，混子、投机者勿扰
+
+### 我们的需求
+
+> 目前需求日译、美工改图以及编辑人员，同时欢迎满足任意一点或多点的程序和测试
+
+- 日译：具有偶像大师翻译经验的任意水平烤肉er，或N2及以上
+- 美工：RGBA PNG图片文字处理，偶像大师个性UI图片字体处理，具有较强的文字排版能力
+- 编辑：具有较强的汉语表达和文字编辑能力，能够在翻译辅助下修复机翻文本的语序和语病，保证稳定工作速度
+- 测试：招募能帮助游戏测试的朋友加入帮忙测试，愿意重复尝试不稳定的偶像大师2游戏，以及游戏分支覆盖 能够仔细发现测试版游戏中出现的问题并及时反馈
+
+### 你所能获得
+
+- 第一时间体验内测版《偶像大师2》汉化
+- 亲自为你的担当拟定中文台本
+- 获取汉化组仅在内部共享的敏感资料
+- 与一众同好们扩列
+- 在汉化版《偶像大师2》镜像的Staff List中向所有人展示你的名字
+
+### 其他
+
+- [偶像大师SP汉化组](https://sp.idolmaster.top)目前正在进行偶像大师SP汉化的工作，亦欢迎有能P加入
+- [偶像大师OFA](https://ofa.idolmaster.top)目前已基本完成汉化，欢迎体验！
+
+{% include section.html %}
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="waldenth@outlook.com"
+  link="waldenth@outlook.com"
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  type="link"
+  text="QQ群号"
+  tooltip="591676099"
+  link="https://qm.qq.com/cgi-bin/qm/qr?k=MV4MSA-1iFosTIQjMXnwP2pEyhDX2QPE&jump_from=webapi&authKey=01qQEFY8b2ykJ5YO8KpranJTlx1CI4PVRuxc2Oq//w2d4dz90E0gE9MwBY/gzbd6"
 %}
 {%
   include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  type="video"
+  text="B站Demo"
+  tooltip="B站Demo"
+  link="https://space.bilibili.com/31914896"
 %}
-
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}

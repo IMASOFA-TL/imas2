@@ -1,22 +1,36 @@
 ---
+title: 偶像大师2汉化项目
+description: 偶像大师2汉化
+nav:
+  order: 1
+  tooltip: IM@S-2-SCH-TLProject
+header: images/header-background.jpg
+footer: images/footer-background.jpg
+header-dark: false
+footer-dark: false
+redirect_from:
+  - accolades
 ---
 
-# IMASOFA-TL's Website
+# 偶像大师2 简体中文汉化项目
 
-An engaging 1-3 sentence description of your lab.
+《偶像大师2》（THE IDOLM@STER 2）为万代南梦宫（Bandai Namco）开发并发行的偶像模拟游戏，属于《偶像大师》系列；游戏的Xbox 360版于2011年2月24日在日本发售，而其后又于同年10月27日在PlayStation 3上发行移植版本。
+
+本网站为偶像大师2简体中文化项目主页。
 
 {% include section.html %}
 
-## Highlights
+
+## 新闻
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+如果你能够进行日译、程序、修图，亦或是有一腔热情，愿意协助测试，偶像大师2汉化项目欢迎你的加入！
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="contact"
+  text="加入测试群"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,56 +40,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/join.jpg"
+  link="contact"
+  title="加入"
   text=text
 %}
