@@ -5,6 +5,6 @@
 
   # IMASOFA-TL's Website
 
-  Visit **[ofa.idolmaster.top/imas2](http://ofa.idolmaster.top/imas2)** 🚀
+  Visit **[2nd.idolmaster.top](http://2nd.idolmaster.top)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
