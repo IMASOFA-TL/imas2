@@ -125,7 +125,7 @@ github:
   icon: fa-brands fa-github
   text: GitHub
   tooltip: GitHub
-  link: https://github.com/$VALUE
+  link: https://github.com/Waldenth/$VALUE
 
 twitter:
   icon: fa-brands fa-twitter

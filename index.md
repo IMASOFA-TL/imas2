@@ -1,5 +1,5 @@
 ---
-title: 偶像大师2汉化项目
+title: 项目主页
 description: 偶像大师2汉化
 nav:
   order: 1
