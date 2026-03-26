@@ -25,6 +25,30 @@ redirect_from:
 
 {% capture text %}
 
+偶像大师2目前已完成汉化技术验证，正在汉化中！
+
+{%
+  include button.html
+  link="contact"
+  text="预览效果"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/preview.jpg"
+  link="contact"
+  title="预览"
+  text=text
+%}
+
+
+{% capture text %}
+
 如果你能够进行日译、程序、修图，亦或是有一腔热情，愿意协助测试，偶像大师2汉化项目欢迎你的加入！
 
 {%
