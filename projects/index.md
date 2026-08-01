@@ -29,11 +29,6 @@ footer-dark: false
 
 **※ 目前菊地真还存在少量剧情未完成翻译，补丁仍处于活跃更新中，可能存在各种问题遗漏，欢迎加入讨论QQ群进行反馈**
 
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
 {% include section.html %}
 
 ## 效果预览
