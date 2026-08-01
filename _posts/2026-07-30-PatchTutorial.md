@@ -7,7 +7,7 @@ tags:
 
 # 偶像大师2 汉化补丁 说明文档（Demo）
 
-> 本文档为偶像大师2 PS3版（THE iDOLM@STER 2 \[BLJS10083\]） 汉化预览补丁 使用说明，本补丁目前只支持RPCS3模拟器或破解PS3实机体验，不支持Xbox360版本。
+> 本文档为偶像大师2 PS3版（THE iDOLM@STER 2 \[BLJS10083\]） 汉化预览补丁 使用说明，本补丁目前只支持RPCS3模拟器或PS3实机体验，不支持Xbox360版本。
 >
 > 补丁包含本体与DLC内容汉化，目前还存在部分偶像的少数剧情或者DLC有缺译或错译；此外部分UI还未实现汉化，欢迎大家体验的同时进行捉虫或提供建议。
 >
@@ -90,3 +90,8 @@ RPCS3对于偶像大师2启动没有OFA稳定，有时会出现启动偶像大�
 如果重试依旧黑屏，可以Configuration→CPU，将SPU Decoder选择为ASMJIT，Apply之后再尝试启动游戏，成功启动之后退出游戏，再改回LLVM启动游戏（ASMJIT性能不如LLVM，正常游戏时推荐依旧选择LLVM）
 
 ![8](/images/patch_tut_8.png)
+
+
+汉化补丁支持非生僻字的中文制作人名输入，具体方式为启动游戏前，在设置内Emulator选项卡中取消勾选Use native user interface，在初次要求输入制作人名时，使用电脑系统的输入法在RPCS3提供的输入框内输入名字，可参考[本链接](https://ofa.idolmaster.top/2023/12/12/PatchTutorial.html#%E4%B8%AD%E6%96%87%E5%88%B6%E4%BD%9C%E4%BA%BA%E5%90%8D%E8%BE%93%E5%85%A5)
+
+但是输入名字需要进行一次转写才可以在游戏内正确显示，使用[此网站](https://ofa.idolmaster.top/imas2-show-name/)将打算输入的中文进行转写，复制转写字符串粘贴RPCS3提供的输入框内以实现名字在游戏内正确显示。
