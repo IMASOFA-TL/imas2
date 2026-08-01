@@ -20,16 +20,20 @@ redirect_from:
 
 {% include section.html %}
 
+## News
 
-## 新闻
+- 偶像大师2目前已完成基本完成汉化，[点击前往下载](https://2nd.idolmaster.top/2026/07/30/PatchTutorial.html)！
+
+
+## 进度
 
 {% capture text %}
 
-偶像大师2目前已完成汉化技术验证，正在汉化中！
+偶像大师2目前已完成基本完成汉化，欢迎下载反馈！
 
 {%
   include button.html
-  link="contact"
+  link="projects"
   text="预览效果"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -41,7 +45,7 @@ redirect_from:
 {%
   include feature.html
   image="images/preview.jpg"
-  link="contact"
+  link="projects"
   title="预览"
   text=text
 %}
