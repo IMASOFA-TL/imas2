@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://2nd.idolmaster.top/feed.xml" rel="self" type="application/atom+xml" /><link href="http://2nd.idolmaster.top/" rel="alternate" type="text/html" /><updated>2026-08-01T20:35:18+00:00</updated><id>http://2nd.idolmaster.top/feed.xml</id><title type="html">偶像大师2汉化项目</title><subtitle>偶像大师2汉化项目</subtitle><entry><title type="html">偶像大师-2 DISC 汉化补丁说明</title><link href="http://2nd.idolmaster.top/2026/07/30/PatchTutorial.html" rel="alternate" type="text/html" title="偶像大师-2 DISC 汉化补丁说明" /><published>2026-07-30T00:00:00+00:00</published><updated>2026-08-01T20:34:40+00:00</updated><id>http://2nd.idolmaster.top/2026/07/30/PatchTutorial</id><content type="html" xml:base="http://2nd.idolmaster.top/2026/07/30/PatchTutorial.html"><![CDATA[<h1 id="偶像大师2-汉化补丁-说明文档demo">偶像大师2 汉化补丁 说明文档（Demo）</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://2nd.idolmaster.top/feed.xml" rel="self" type="application/atom+xml" /><link href="http://2nd.idolmaster.top/" rel="alternate" type="text/html" /><updated>2026-08-01T20:51:19+00:00</updated><id>http://2nd.idolmaster.top/feed.xml</id><title type="html">偶像大师2汉化项目</title><subtitle>偶像大师2汉化项目</subtitle><entry><title type="html">偶像大师-2 DISC 汉化补丁说明</title><link href="http://2nd.idolmaster.top/2026/07/30/PatchTutorial.html" rel="alternate" type="text/html" title="偶像大师-2 DISC 汉化补丁说明" /><published>2026-07-30T00:00:00+00:00</published><updated>2026-08-01T20:50:32+00:00</updated><id>http://2nd.idolmaster.top/2026/07/30/PatchTutorial</id><content type="html" xml:base="http://2nd.idolmaster.top/2026/07/30/PatchTutorial.html"><![CDATA[<h1 id="偶像大师2-汉化补丁-说明文档demo">偶像大师2 汉化补丁 说明文档（Demo）</h1>
 
 <blockquote>
-  <p>本文档为偶像大师2 PS3版（THE iDOLM@STER 2 [BLJS10083]） 汉化预览补丁 使用说明，本补丁目前只支持RPCS3模拟器或破解PS3实机体验，不支持Xbox360版本。</p>
+  <p>本文档为偶像大师2 PS3版（THE iDOLM@STER 2 [BLJS10083]） 汉化预览补丁 使用说明，本补丁目前只支持RPCS3模拟器或PS3实机体验，不支持Xbox360版本。</p>
 
   <p>补丁包含本体与DLC内容汉化，目前还存在部分偶像的少数剧情或者DLC有缺译或错译；此外部分UI还未实现汉化，欢迎大家体验的同时进行捉虫或提供建议。</p>
 
@@ -97,4 +97,8 @@
 
 <p>如果重试依旧黑屏，可以Configuration→CPU，将SPU Decoder选择为ASMJIT，Apply之后再尝试启动游戏，成功启动之后退出游戏，再改回LLVM启动游戏（ASMJIT性能不如LLVM，正常游戏时推荐依旧选择LLVM）</p>
 
-<p><img src="/images/patch_tut_8.png" alt="8" /></p>]]></content><author><name>AaronP</name></author><category term="Tutorial" /><summary type="html"><![CDATA[偶像大师2 汉化补丁 说明文档（Demo）]]></summary></entry></feed>
+<p><img src="/images/patch_tut_8.png" alt="8" /></p>
+
+<p>汉化补丁支持非生僻字的中文制作人名输入，具体方式为启动游戏前，在设置内Emulator选项卡中取消勾选Use native user interface，在初次要求输入制作人名时，使用电脑系统的输入法在RPCS3提供的输入框内输入名字，可参考<a href="https://ofa.idolmaster.top/2023/12/12/PatchTutorial.html#%E4%B8%AD%E6%96%87%E5%88%B6%E4%BD%9C%E4%BA%BA%E5%90%8D%E8%BE%93%E5%85%A5">本链接</a></p>
+
+<p>但是输入名字需要进行一次转写才可以在游戏内正确显示，使用<a href="https://ofa.idolmaster.top/imas2-show-name/">此网站</a>将打算输入的中文进行转写，复制转写字符串粘贴RPCS3提供的输入框内以实现名字在游戏内正确显示。</p>]]></content><author><name>AaronP</name></author><category term="Tutorial" /><summary type="html"><![CDATA[偶像大师2 汉化补丁 说明文档（Demo）]]></summary></entry></feed>
