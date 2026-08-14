@@ -11,7 +11,7 @@ footer-dark: false
 
 # {% include icon.html icon="fa-solid fa-users" %}成员信息
 
-偶像大师OFA汉化组成员信息
+偶像大师2汉化组成员信息
 
 {% include section.html %}
 ## 成员总览
