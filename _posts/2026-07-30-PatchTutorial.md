@@ -1,5 +1,5 @@
 ---
-title: 偶像大师-2 DISC 汉化补丁 下载地址与说明
+title: 偶像大师-2 DISC 汉化补丁 下载说明
 author: AaronP
 tags:
   - Tutorial
