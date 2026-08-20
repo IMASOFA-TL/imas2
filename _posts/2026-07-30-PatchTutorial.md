@@ -50,6 +50,7 @@ tags:
 ### 补丁下载地址
 
 [腾讯微云（2026-08-20更新）](https://share.weiyun.com/SDJaXOmH)
+
 [百度网盘（2026-08-20更新）](https://pan.baidu.com/s/1zUTv9lbbZptsZ-vbJg6KVQ?pwd=pcc4)，提取码: pcc4 
 
 主要补丁文件（games/THE iDOLM@STER 2 [BLJS10083]/PS3_GAME/USRDIR/resource）SHA-1数据校验：
@@ -70,9 +71,11 @@ tags:
 
 其中目录1的`THE iDOLM@STER 2 [BLJS10083]`可能为你自己解压iso目录时的名字，可以任意。
 
-※ 其实目录1 dev_hdd0\game\BLJS10083DATA\USRDIR\resource和 目录3 games\THE iDOLM@STER 2 [BLJS10083]\PS3_GAME\USRDIR\resource中的要替换的补丁汉化文件是完全一样的；
+※ 其实目录1和 目录3中的要替换的补丁汉化文件是完全一样的；
 不同之处在于目录3多了bg2d文件夹和initialFix.mpc，initialTemp.mpc文件；
-如果你自己可以理解操作，可以只下载网盘提供的dev_hdd0\game\BLJS10083和games\THE iDOLM@STER 2 [BLJS10083]\PS3_GAME\USRDIR\resource，对于目录1中的要替换文件，从下载的汉化目录3中复制到目录1中即可，这样可以避免重复下载文件。
+如果你自己可以理解操作，
+可以只下载网盘提供的`dev_hdd0\game\BLJS10083和games\THE iDOLM@STER 2 [BLJS10083]\PS3_GAME\USRDIR\resource`，
+对于目录1中的要替换文件，从下载的汉化目录3中复制到目录1中即可，这样可以避免重复下载文件。
 
 
 ![1](/images/patch_tut_1.png)
