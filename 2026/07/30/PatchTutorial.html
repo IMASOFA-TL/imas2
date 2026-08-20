@@ -62,10 +62,10 @@
 
   <meta name="author" content="AaronP">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2026-08-14T15:57:30+00:00">
+  <meta property="og:updated_time" content="2026-08-20T11:36:39+00:00">
   <meta property="article:published_time" content="2026-07-30T00:00:00+00:00">
-  <meta property="article:modified_time" content="2026-08-14T15:57:30+00:00">
-  <meta name="revised" content="2026-08-14T15:57:30+00:00">
+  <meta property="article:modified_time" content="2026-08-20T11:36:39+00:00">
+  <meta name="revised" content="2026-08-20T11:36:39+00:00">
 
 
 <script type="application/ld+json">
@@ -75,7 +75,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "偶像大师-2 DISC 汉化补丁说明" },
       "datePublished": "2026-07-30T00:00:00+00:00",
-      "dateModified": "2026-08-14T15:57:30+00:00",
+      "dateModified": "2026-08-20T11:36:39+00:00",
     
     "name": "偶像大师-2 DISC 汉化补丁说明",
     "description": "偶像大师2汉化项目",
@@ -446,7 +446,7 @@
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>August 14, 2026</span>
+      <span>August 20, 2026</span>
     </span>
   
 </div>
@@ -492,19 +492,27 @@
   <li>
 <a href="#%E5%81%B6%E5%83%8F%E5%A4%A7%E5%B8%882-%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81-%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3demo">偶像大师2 汉化补丁 说明文档（Demo）</a>
     <ul>
-      <li><a href="#%E5%AE%89%E8%A3%85%E5%8E%9F%E6%B8%B8%E6%88%8F%E4%B8%8Edlc">安装原游戏与DLC</a></li>
+      <li>
+<a href="#%E5%AE%89%E8%A3%85%E5%8E%9F%E6%B8%B8%E6%88%8F%E4%B8%8Edlc">安装原游戏与DLC</a>
+        <ul>
+          <li><a href="#disc%E7%89%88%E6%9C%AC%E6%B8%B8%E6%88%8F%E5%AE%89%E8%A3%85">DISC版本游戏安装</a></li>
+          <li><a href="#psn%E7%89%88%E6%9C%AC%E6%B8%B8%E6%88%8F%E5%AE%89%E8%A3%85">PSN版本游戏安装</a></li>
+        </ul>
+      </li>
       <li>
 <a href="#%E6%B1%89%E5%8C%96%E8%A6%86%E7%9B%96">汉化覆盖</a>
         <ul>
           <li><a href="#%E4%B8%8B%E8%BD%BD2%E4%BB%A3%E8%A1%A5%E4%B8%81">下载2代补丁</a></li>
           <li>
-<a href="#%E8%A6%86%E7%9B%96%E6%96%87%E4%BB%B6">覆盖文件</a>
+<a href="#%E8%A6%86%E7%9B%96%E6%96%87%E4%BB%B6disc%E7%89%88%E6%9C%AC-bljs10083">覆盖文件（DISC版本 BLJS10083）</a>
             <ul>
               <li><a href="#%E5%AF%B9%E4%BA%8E%E7%9B%AE%E5%BD%951">对于目录1</a></li>
               <li><a href="#%E5%AF%B9%E4%BA%8E%E7%9B%AE%E5%BD%952">对于目录2</a></li>
               <li><a href="#%E5%AF%B9%E4%BA%8E%E7%9B%AE%E5%BD%953">对于目录3</a></li>
             </ul>
           </li>
+          <li><a href="#%E8%A6%86%E7%9B%96%E6%96%87%E4%BB%B6-psn%E7%89%88%E6%9C%ACnpjb00337">覆盖文件 PSN版本(NPJB00337)</a></li>
+          <li><a href="#%E5%AE%9E%E6%9C%BA%E7%8E%A9%E5%AE%B6%E7%9A%84ebootbin-%E6%9B%BF%E6%8D%A2">实机玩家的EBOOT.BIN 替换</a></li>
         </ul>
       </li>
       <li><a href="#%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%85%B6%E4%BB%96%E9%97%AE%E9%A2%98">模拟器其他问题</a></li>
@@ -514,19 +522,33 @@
 
 <h2 id="安装原游戏与dlc">安装原游戏与DLC</h2>
 
-<p>请自行获取游戏文件。如果使用RPCS3，可以参考OFA教程的<a href="https://ofa.idolmaster.top/2025/07/18/InstallTutorial.html">RPCS3说明</a></p>
+<p>请自行获取游戏文件。如果使用RPCS3，可以参考OFA教程的<a href="https://ofa.idolmaster.top/2025/07/18/InstallTutorial.html">RPCS3说明</a>
+注意编译固件和安装游戏文件时，模拟器的完整目录和准备的游戏pkg文件的目录都都不要有任何中文字符或者空格，否则可能在安装游戏pkg或固件时闪退。</p>
+
+<h3 id="disc版本游戏安装">DISC版本游戏安装</h3>
+<p>解压偶像大师2本体iso，将解压得到的完整文件夹复制到模拟器目录内的/games/目录下。然后单击模拟器界面的refresh按钮，模拟器主界面栏中出现游戏。
+点击左上角 File -&gt; Intsall Packages/Raps/Edats，选择THE iDOLM@STER 2 [BLJS10083][PATCH][v1.02].pkg和THE iDOLM@STER 2 [BLJS10083][DLC].pkg安装，完成游戏本体与DLC的安装。</p>
+
+<h3 id="psn版本游戏安装">PSN版本游戏安装</h3>
+<p>点击左上角 File -&gt; Intsall Packages/Raps/Edats，选择自己准备好的本体pkg，升级pkg，THE iDOLM@STER 2 [BLJS10083][DLC].pkg，密钥文件JP0700-NPJB00337_00-IMAS2HDDBOOT0000.rap进行安装，完成游戏本体与DLC的安装。</p>
 
 <h2 id="汉化覆盖">汉化覆盖</h2>
 
 <h3 id="下载2代补丁">下载2代补丁</h3>
 
-<p><a href="https://share.weiyun.com/SDJaXOmH">腾讯微云</a></p>
+<p><a href="https://share.weiyun.com/SDJaXOmH">腾讯微云（2026-08-20更新）</a>
+<a href="https://pan.baidu.com/s/1zUTv9lbbZptsZ-vbJg6KVQ?pwd=pcc4">百度网盘（2026-08-20更新）</a>，提取码: pcc4</p>
+
+<p>主要补丁文件（games/THE iDOLM@STER 2 [BLJS10083]/PS3_GAME/USRDIR/resource）SHA-1数据校验：</p>
+<ul>
+  <li>89D95D7E5D433E54B2618EE2241895D59CCD98A2</li>
+</ul>
 
 <p>打开链接，进入偶像大师2 PS3版目录，下载汉化补丁文件夹</p>
 
 <p><img src="/images/patch_tut_0.png" alt="0"></p>
 
-<h3 id="覆盖文件">覆盖文件</h3>
+<h3 id="覆盖文件disc版本-bljs10083">覆盖文件（DISC版本 BLJS10083）</h3>
 
 <p>打开RPCS3目录，找到类似以下3个目录，分别是</p>
 
@@ -540,6 +562,10 @@
 </ul>
 
 <p>其中目录1的<code class="language-plaintext highlighter-rouge">THE iDOLM@STER 2 [BLJS10083]</code>可能为你自己解压iso目录时的名字，可以任意。</p>
+
+<p>※ 其实目录1 dev_hdd0\game\BLJS10083DATA\USRDIR\resource和 目录3 games\THE iDOLM@STER 2 [BLJS10083]\PS3_GAME\USRDIR\resource中的要替换的补丁汉化文件是完全一样的；
+不同之处在于目录3多了bg2d文件夹和initialFix.mpc，initialTemp.mpc文件；
+如果你自己可以理解操作，可以只下载网盘提供的dev_hdd0\game\BLJS10083和games\THE iDOLM@STER 2 [BLJS10083]\PS3_GAME\USRDIR\resource，对于目录1中的要替换文件，从下载的汉化目录3中复制到目录1中即可，这样可以避免重复下载文件。</p>
 
 <p><img src="/images/patch_tut_1.png" alt="1"></p>
 
@@ -563,6 +589,10 @@
 
 <p><img src="/images/patch_tut_5.png" alt="5"></p>
 
+<p>注意，此处<code class="language-plaintext highlighter-rouge">dev_hdd0\game\BLJS10083\USRDIR</code>的<code class="language-plaintext highlighter-rouge">EBOOT.BIN</code> 和补丁根目录 <code class="language-plaintext highlighter-rouge">偶2-DISC汉化EBOOT.BIN</code>相同，在此放一个EBOOT.BIN仅为了模拟器DISC玩家方便；</p>
+
+<p>如果你是PSN实机DISC版本，请使用<code class="language-plaintext highlighter-rouge">偶2-DISC重签汉化EBOOT.BIN</code>重命名为EBOOT.BIN替换此处。</p>
+
 <h4 id="对于目录3">对于目录3</h4>
 
 <p>打开下载补丁的<code class="language-plaintext highlighter-rouge">games\THE iDOLM@STER 2 [BLJS10083]\PS3_GAME\USRDIR\resource</code>文件夹，全选</p>
@@ -574,6 +604,19 @@
 <p><img src="/images/patch_tut_7.png" alt="7"></p>
 
 <p>此时完成全部的汉化操作。后续如果有汉化更新，则将更新的补丁文件找到RPCS3游戏安装目录<code class="language-plaintext highlighter-rouge">dev_hdd0</code>中同名文件进行覆盖即可。</p>
+
+<h3 id="覆盖文件-psn版本npjb00337">覆盖文件 PSN版本(NPJB00337)</h3>
+<p>PSN版本没有<code class="language-plaintext highlighter-rouge">games\</code>目录，所有游戏文件都在<code class="language-plaintext highlighter-rouge">dev_hdd0\game\NPJB00337</code>对应目录下，找到所有对应文件替换即可。注意EBOOT.BIN选择PSN版本汉化的替换</p>
+
+<p>注意，PSN版本EBOOT.BIN覆盖位置和DISC版本不同，非DLC文件目录，请在安装游戏本体和更新的<code class="language-plaintext highlighter-rouge">dev_hdd0\game\NPJB00337</code>目录下寻找，使用提供的<code class="language-plaintext highlighter-rouge">偶2-PSN汉化-EBOOT.BIN</code>或者<code class="language-plaintext highlighter-rouge">偶2-PSN重签汉化EBOOT.BIN</code>替换该目录下的<code class="language-plaintext highlighter-rouge">EBOOT.BIN</code></p>
+
+<h3 id="实机玩家的ebootbin-替换">实机玩家的EBOOT.BIN 替换</h3>
+<p>上文补丁中替换的<code class="language-plaintext highlighter-rouge">EBOOT.BIN</code>为模拟器使用的，我们提供了PS3实机<code class="language-plaintext highlighter-rouge">重签名的EBOOT.BIN</code>文件，请PS3实机玩家使用对应的EBOOT文件，重命名为<code class="language-plaintext highlighter-rouge">EBOOT.BIN</code>后替换。</p>
+
+<p>注意，安装DISC版本的玩家，使用<code class="language-plaintext highlighter-rouge">偶2-DISC重签汉化EBOOT.BIN</code>替换目录<code class="language-plaintext highlighter-rouge">dev_hdd0\game\BLJS10083\USRDIR</code>下的EBOOT.BIN；
+安装PSN版本的玩家，使用<code class="language-plaintext highlighter-rouge">偶2-PSN重签汉化EBOOT.BIN</code>替换目录<code class="language-plaintext highlighter-rouge">dev_hdd0\game\NPJB00337</code>或者子目录下存在的EBOOT.BIN</p>
+
+<p>如果想要自己重签名，需要将我们提供的模拟器版本EBOOT.</p>
 
 <h2 id="模拟器其他问题">模拟器其他问题</h2>
 
@@ -605,6 +648,11 @@
     
   </span>
   <span>
+    
+      Next post <i class="icon fa-solid fa-angle-right"></i><br>
+      <a href="/2026/08/20/ReleaseAnnouncement.html">
+        发布通稿
+      </a>
     
   </span>
 </div>
