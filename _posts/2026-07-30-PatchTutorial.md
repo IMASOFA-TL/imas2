@@ -51,10 +51,13 @@ tags:
 
 [腾讯微云（2026-08-20更新）](https://share.weiyun.com/SDJaXOmH)
 
-[百度网盘（2026-08-20更新）](https://pan.baidu.com/s/1zUTv9lbbZptsZ-vbJg6KVQ?pwd=pcc4)，提取码: pcc4 
+[百度网盘（2026-08-20更新）](https://pan.baidu.com/s/1zUTv9lbbZptsZ-vbJg6KVQ?pwd=pcc4)：提取码: pcc4 
 
-主要补丁文件（games/THE iDOLM@STER 2 [BLJS10083]/PS3_GAME/USRDIR/resource）SHA-1数据校验：
-- 89D95D7E5D433E54B2618EE2241895D59CCD98A2
+
+主要补丁文件（games/THE iDOLM@STER 2 [BLJS10083]/PS3_GAME/USRDIR/resource）
+
+SHA-1数据校验前缀：
+- 89D95D7E5D
 
 
 打开链接，进入偶像大师2 PS3版目录，下载汉化补丁文件夹
@@ -72,9 +75,13 @@ tags:
 其中目录1的`THE iDOLM@STER 2 [BLJS10083]`可能为你自己解压iso目录时的名字，可以任意。
 
 ※ 其实目录1和 目录3中的要替换的补丁汉化文件是完全一样的；
+
 不同之处在于目录3多了bg2d文件夹和initialFix.mpc，initialTemp.mpc文件；
-如果你自己可以理解操作，
-可以只下载网盘提供的`dev_hdd0\game\BLJS10083和games\THE iDOLM@STER 2 [BLJS10083]\PS3_GAME\USRDIR\resource`，
+
+如果你自己可以理解操作，可以只下载网盘提供的
+
+`dev_hdd0\game\BLJS10083和games\THE iDOLM@STER 2 [BLJS10083]\PS3_GAME\USRDIR\resource`，
+
 对于目录1中的要替换文件，从下载的汉化目录3中复制到目录1中即可，这样可以避免重复下载文件。
 
 
@@ -101,7 +108,9 @@ tags:
 ![5](/images/patch_tut_5.png)
 
 
-注意，此处`dev_hdd0\game\BLJS10083\USRDIR`的`EBOOT.BIN` 和补丁根目录 `偶2-DISC汉化EBOOT.BIN`相同，在此放一个EBOOT.BIN仅为了模拟器DISC玩家方便；
+注意，此处`dev_hdd0\game\BLJS10083\USRDIR`的`EBOOT.BIN` 和补丁根目录 `偶2-DISC汉化EBOOT.BIN`相同，
+
+在此放一个EBOOT.BIN仅为了模拟器DISC玩家方便；
 
 如果你是PSN实机DISC版本，请使用`偶2-DISC重签汉化EBOOT.BIN`重命名为EBOOT.BIN替换此处。
 
@@ -116,27 +125,46 @@ tags:
 
 ![7](/images/patch_tut_7.png)
 
-此时完成全部的汉化操作。后续如果有汉化更新，则将更新的补丁文件找到RPCS3游戏安装目录`dev_hdd0`中同名文件进行覆盖即可。
+此时完成全部的汉化操作。后续如果有汉化更新，
+
+则将更新的补丁文件找到RPCS3游戏安装目录`dev_hdd0`中同名文件进行覆盖即可。
 
 ### 覆盖文件 PSN版本(NPJB00337)
-PSN版本没有`games\`目录，所有游戏文件都在`dev_hdd0\game\NPJB00337`对应目录下，找到所有对应文件替换即可。注意EBOOT.BIN选择PSN版本汉化的替换
+PSN版本没有`games\`目录，所有游戏文件都在`dev_hdd0\game\NPJB00337`对应目录下，
 
-注意，PSN版本EBOOT.BIN覆盖位置和DISC版本不同，非DLC文件目录，请在安装游戏本体和更新的`dev_hdd0\game\NPJB00337`目录下寻找，使用提供的`偶2-PSN汉化-EBOOT.BIN`或者`偶2-PSN重签汉化EBOOT.BIN`替换该目录下的`EBOOT.BIN`
+找到所有对应文件替换即可。注意EBOOT.BIN选择PSN版本汉化的替换
+
+注意，PSN版本EBOOT.BIN覆盖位置和DISC版本不同，非DLC文件目录，
+
+请在安装游戏本体和更新的`dev_hdd0\game\NPJB00337`目录下寻找，
+
+使用提供的`偶2-PSN汉化-EBOOT.BIN`或者`偶2-PSN重签汉化EBOOT.BIN`替换该目录下的`EBOOT.BIN`
 
 ### 实机玩家的EBOOT.BIN 替换
-上文补丁中替换的`EBOOT.BIN`为模拟器使用的，我们提供了PS3实机`重签名的EBOOT.BIN`文件，请PS3实机玩家使用对应的EBOOT文件，重命名为`EBOOT.BIN`后替换。
+上文补丁中替换的`EBOOT.BIN`为模拟器使用的，
 
-注意，安装DISC版本的玩家，使用`偶2-DISC重签汉化EBOOT.BIN`替换目录`dev_hdd0\game\BLJS10083\USRDIR`下的EBOOT.BIN；
+我们提供了PS3实机`重签名的EBOOT.BIN`文件，
+
+请PS3实机玩家使用对应的EBOOT文件，重命名为`EBOOT.BIN`后替换。
+
+注意，安装DISC版本的玩家，使用`偶2-DISC重签汉化EBOOT.BIN`
+
+替换目录`dev_hdd0\game\BLJS10083\USRDIR`下的EBOOT.BIN；
+
 安装PSN版本的玩家，使用`偶2-PSN重签汉化EBOOT.BIN`替换目录`dev_hdd0\game\NPJB00337`或者子目录下存在的EBOOT.BIN
 
-如果想要自己重签名，需要将我们提供的模拟器版本EBOOT.
+如果想要自己重签名，需要将我们提供的模拟器版本EBOOT文件重命名为`EBOOT.ELF`，再进行重签。
 
 
 ## 模拟器其他问题
 
 
 ### 启动黑屏
-RPCS3对于偶像大师2启动没有OFA稳定，有时会出现启动偶像大师2游戏时窗口黑屏，无法关闭的问题。此时需要强制关闭模拟器，并使用任务管理器（Windows快捷键 Ctrl+Alt+Delete ）等工具完全杀死模拟器进程，重新打开模拟器尝试启动，可能需要多次。
+RPCS3对于偶像大师2启动没有OFA稳定，有时会出现启动偶像大师2游戏时窗口黑屏，无法关闭的问题。此时需要强制关闭模拟器，
+
+并使用任务管理器（Windows快捷键 Ctrl+Alt+Delete ，Linux/MacOS 亦有类似工具）完全杀死模拟器进程，
+
+重新打开模拟器尝试启动，可能需要多次。
 
 如果重试依旧黑屏，可以Configuration→CPU，将SPU Decoder选择为ASMJIT，Apply之后再尝试启动游戏，成功启动之后退出游戏，再改回LLVM启动游戏（ASMJIT性能不如LLVM，正常游戏时推荐依旧选择LLVM）
 
