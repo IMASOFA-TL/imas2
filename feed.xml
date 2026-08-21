@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://2nd.idolmaster.top/feed.xml" rel="self" type="application/atom+xml" /><link href="http://2nd.idolmaster.top/" rel="alternate" type="text/html" /><updated>2026-08-20T12:09:36+00:00</updated><id>http://2nd.idolmaster.top/feed.xml</id><title type="html">偶像大师2汉化项目</title><subtitle>偶像大师2汉化项目</subtitle><entry><title type="html">发布通稿</title><link href="http://2nd.idolmaster.top/2026/08/20/ReleaseAnnouncement.html" rel="alternate" type="text/html" title="发布通稿" /><published>2026-08-20T00:00:00+00:00</published><updated>2026-08-20T12:08:55+00:00</updated><id>http://2nd.idolmaster.top/2026/08/20/ReleaseAnnouncement</id><content type="html" xml:base="http://2nd.idolmaster.top/2026/08/20/ReleaseAnnouncement.html"><![CDATA[<h1 id="偶像大师2汉化中文补丁-发布通稿">偶像大师2汉化中文补丁 发布通稿</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://2nd.idolmaster.top/feed.xml" rel="self" type="application/atom+xml" /><link href="http://2nd.idolmaster.top/" rel="alternate" type="text/html" /><updated>2026-08-21T07:29:17+00:00</updated><id>http://2nd.idolmaster.top/feed.xml</id><title type="html">偶像大师2汉化项目</title><subtitle>偶像大师2汉化项目</subtitle><entry><title type="html">发布通稿</title><link href="http://2nd.idolmaster.top/2026/08/20/ReleaseAnnouncement.html" rel="alternate" type="text/html" title="发布通稿" /><published>2026-08-20T00:00:00+00:00</published><updated>2026-08-21T07:28:30+00:00</updated><id>http://2nd.idolmaster.top/2026/08/20/ReleaseAnnouncement</id><content type="html" xml:base="http://2nd.idolmaster.top/2026/08/20/ReleaseAnnouncement.html"><![CDATA[<h1 id="偶像大师2汉化中文补丁-发布通稿">偶像大师2汉化中文补丁 发布通稿</h1>
 
 <blockquote>
   <p>《偶像大师2》（THE iDOLM@STER 2）为万代南梦宫（Bandai Namco）开发并发行的偶像模拟游戏，被视为系列第二世代（IM@S 2.0）的核心作品。游戏的Xbox 360版于2011年2月24日在日本发售，而其后又于同年10月27日在PlayStation 3上发行移植版本。本次由之前发布过偶像大师OFA，偶像大师SP汉化的汉化组继续为大家带来偶像大师2汉化补丁，本补丁基于游戏的PS3版翻译制作，包含本体和DLC全部内容，目前只支持PS3实机或者RPCS3模拟器体验，不支持Xbox360版本。</p>
@@ -20,6 +20,7 @@
           <li><a href="#%E5%A6%82%E6%9C%88%E5%92%8F%E6%98%9F">如月咏星</a></li>
           <li><a href="#%E8%BF%B7%E4%B9%8Bxxx">迷之xxx</a></li>
           <li><a href="#%E9%9B%AA%E7%A9%BA">雪空</a></li>
+          <li><a href="#%e5%8f%b2%e5%a4%a7%e6%9e%97%e5%b0%8f%e5%90%8c%e5%bf%97">史大林小同志</a></li>
         </ul>
       </li>
     </ul>
@@ -108,7 +109,21 @@
 
 <p>中国的偶像大师社区也在这一年里发生了翻天覆地的变化。IFE，新春会，各种地方活动…想必给各位制作人留下了不少回忆。如果我的工作，作为这样精彩的一年里的一个小小的注脚，也能在你的制作人生涯中留下一点小小的回忆，那就再好不过了。</p>
 
-<p>最后祝大家玩的开心，希望偶像大师越来越好。</p>]]></content><author><name>[&quot;AaronP&quot;, &quot;如月咏星&quot;, &quot;迷之xxx&quot;, &quot;雪空&quot;]</name></author><category term="Article" /><summary type="html"><![CDATA[偶像大师2汉化中文补丁 发布通稿]]></summary></entry><entry><title type="html">偶像大师-2 DISC 汉化补丁 下载说明</title><link href="http://2nd.idolmaster.top/2026/07/30/PatchTutorial.html" rel="alternate" type="text/html" title="偶像大师-2 DISC 汉化补丁 下载说明" /><published>2026-07-30T00:00:00+00:00</published><updated>2026-08-20T12:08:55+00:00</updated><id>http://2nd.idolmaster.top/2026/07/30/PatchTutorial</id><content type="html" xml:base="http://2nd.idolmaster.top/2026/07/30/PatchTutorial.html"><![CDATA[<h1 id="偶像大师2-汉化补丁-说明文档">偶像大师2 汉化补丁 说明文档</h1>
+<p>最后祝大家玩的开心，希望偶像大师越来越好。</p>
+
+<h3 id="史大林小同志">史大林小同志</h3>
+
+<p>说起偶像大师就不得不提及2011年的动画《偶像大师》，这部动画现在来看难免会带有一些时代的局限性，但瑕不掩瑜，仍然称得上是一部杰出作品，也是2010年代二次元偶像番浪潮的先声。而这部动画便是直接基于本次发布的主机游戏《偶像大师2》的背景与人设所创作的。</p>
+
+<p>然而《偶像大师2》实际上很难称得上是一部成功的商业作品，甚至可以说是给当年的偶像大师企划整体蒙上阴影的一部充满争议的作品。删除、边缘化部分765偶像的同时加入新的961偶像；部分线路情节不合理，人物崩坏；文本量较前作大幅缩水等等……可以说如果没有动画导演锦织敦史的力挽狂澜，偶像大师系列或许就永远终结在了二代之上。因此，彼时对于二代的批判可以说呈现一边倒的局面，很少见到有人谈论二代的优点。而现在的偶像大师企划早已脱离了“险境”，不像2010年代初期那样每日如履薄冰。今天的我们也许能够比当年的粉丝更加冷静客观地去看待二代中那些被遗忘的优点。</p>
+
+<p>首先二代奠定了大家所熟悉的765本家人设。我们现在熟悉的侧刘海伊织，侧马尾真美以及短发梓等等都来源于二代的新人设，而整体而言二代人设的变化可以说是获得了成功的。其次，二代升级并改进了过往游戏的机制玩法。玩过SP的粉丝应该都会对初代的勾使小游戏以及初见让人有些不知所谓的试镜印象深刻。而当时也没有大家现在所熟知的舞台模式，舞台也最多仅限三人同台演出。二代对以上问题做出了改进，改善了小游戏，让手残玩家得以解放；首创了按节奏打圈（即赛博木鱼）的玩法；新增舞台模式，并允许5人同台演出，这些游戏机制上的更新最终被继承到了十年后的星耀季节，证明了其生命力。最后，偶像大师2也是最后一部制作人从初见小偶像到最终结束培育，拥有完整主线剧情的偶像大师主机作。尽管各个线路的质量参差不齐，但这种穿插人物背景设定，有始有终的完整培育剧情对小偶像的塑造而言至关重要。</p>
+
+<p>我们对本家的认知很大程度上受到了后续本家动画的影响，而本家动画囿于篇幅原因不得不将镜头更多对准了春香、千早，美希这三位偶像，也就是我们今天常说的“御三家”身上。与动画不同，游戏时代的本家并没有后续所谓“御三家”的概念，每个小偶像在篇幅上并没有太大的差距（除了追加战士美希贵响以及二代的龙宫）。因此御三家以外的小偶像也拥有足够的篇幅去刻画角色的背景设定与成长。二代的雪步便是一个典型案例，从初见时的胆小懦弱到结局对制作人施加小小的“心机”，我们能在雪步的故事中逐渐看到她的成长，在结局的first step中体会到雪步与制作人之间二人三脚的羁绊。而这些都是动画，乃至星耀季节、OFA、百万手游中的雪步难以带给你的体验。</p>
+
+<p>日本的老P中流行一句话叫“你的春香是你的春香，我的春香是我的春香”，意思是说不同的玩家根据培育策略选择的不同，走过的营业交流不同，所看到的春香也不尽相同。私以为不同媒体上的小偶像也是同理。如果你只见过动画、星耀或是OFA的春香，不妨再来认识一下二代的春香？</p>
+
+<p>二代的汉化其实也是我的夙愿，去年还在汉化SP和OFA时，我就不时逮着组长Aaron帮忙解包二代测试汉化，还试想过用二代还原箱版的交流。然而进入今年后因为学校的事逐渐增多，剩余的时间又投向了新喜欢的事物上，导致在组里并没有怎么参与实际的汉化，只是忝列名单其中。不过今后补丁还会随着反馈不断更新，后续一定会和组员共同努力来提升翻译质量。有缘再见了。</p>]]></content><author><name>[&quot;AaronP&quot;, &quot;如月咏星&quot;, &quot;迷之xxx&quot;, &quot;雪空&quot;, &quot;史大林小同志&quot;]</name></author><category term="Article" /><summary type="html"><![CDATA[偶像大师2汉化中文补丁 发布通稿]]></summary></entry><entry><title type="html">偶像大师-2 DISC 汉化补丁 下载说明</title><link href="http://2nd.idolmaster.top/2026/07/30/PatchTutorial.html" rel="alternate" type="text/html" title="偶像大师-2 DISC 汉化补丁 下载说明" /><published>2026-07-30T00:00:00+00:00</published><updated>2026-08-21T07:28:30+00:00</updated><id>http://2nd.idolmaster.top/2026/07/30/PatchTutorial</id><content type="html" xml:base="http://2nd.idolmaster.top/2026/07/30/PatchTutorial.html"><![CDATA[<h1 id="偶像大师2-汉化补丁-说明文档">偶像大师2 汉化补丁 说明文档</h1>
 
 <blockquote>
   <p>本文档为偶像大师2 PS3版（THE iDOLM@STER 2 [BLJS10083]） 汉化预览补丁 使用说明，本补丁目前只支持RPCS3模拟器或PS3实机体验，不支持Xbox360版本。</p>
@@ -171,11 +186,13 @@
 
 <p><a href="https://share.weiyun.com/SDJaXOmH">腾讯微云（2026-08-20更新）</a></p>
 
-<p><a href="https://pan.baidu.com/s/1zUTv9lbbZptsZ-vbJg6KVQ?pwd=pcc4">百度网盘（2026-08-20更新）</a>，提取码: pcc4</p>
+<p><a href="https://pan.baidu.com/s/1zUTv9lbbZptsZ-vbJg6KVQ?pwd=pcc4">百度网盘（2026-08-20更新）</a>：提取码: pcc4</p>
 
-<p>主要补丁文件（games/THE iDOLM@STER 2 [BLJS10083]/PS3_GAME/USRDIR/resource）SHA-1数据校验：</p>
+<p>主要补丁文件（games/THE iDOLM@STER 2 [BLJS10083]/PS3_GAME/USRDIR/resource）</p>
+
+<p>SHA-1数据校验前缀：</p>
 <ul>
-  <li>89D95D7E5D433E54B2618EE2241895D59CCD98A2</li>
+  <li>89D95D7E5D</li>
 </ul>
 
 <p>打开链接，进入偶像大师2 PS3版目录，下载汉化补丁文件夹</p>
@@ -194,11 +211,15 @@
 
 <p>其中目录1的<code class="language-plaintext highlighter-rouge">THE iDOLM@STER 2 [BLJS10083]</code>可能为你自己解压iso目录时的名字，可以任意。</p>
 
-<p>※ 其实目录1和 目录3中的要替换的补丁汉化文件是完全一样的；
-不同之处在于目录3多了bg2d文件夹和initialFix.mpc，initialTemp.mpc文件；
-如果你自己可以理解操作，
-可以只下载网盘提供的<code class="language-plaintext highlighter-rouge">dev_hdd0\game\BLJS10083和games\THE iDOLM@STER 2 [BLJS10083]\PS3_GAME\USRDIR\resource</code>，
-对于目录1中的要替换文件，从下载的汉化目录3中复制到目录1中即可，这样可以避免重复下载文件。</p>
+<p>※ 其实目录1和 目录3中的要替换的补丁汉化文件是完全一样的；</p>
+
+<p>不同之处在于目录3多了bg2d文件夹和initialFix.mpc，initialTemp.mpc文件；</p>
+
+<p>如果你自己可以理解操作，可以只下载网盘提供的</p>
+
+<p><code class="language-plaintext highlighter-rouge">dev_hdd0\game\BLJS10083和games\THE iDOLM@STER 2 [BLJS10083]\PS3_GAME\USRDIR\resource</code>，</p>
+
+<p>对于目录1中的要替换文件，从下载的汉化目录3中复制到目录1中即可，这样可以避免重复下载文件。</p>
 
 <p><img src="/images/patch_tut_1.png" alt="1" /></p>
 
@@ -222,7 +243,9 @@
 
 <p><img src="/images/patch_tut_5.png" alt="5" /></p>
 
-<p>注意，此处<code class="language-plaintext highlighter-rouge">dev_hdd0\game\BLJS10083\USRDIR</code>的<code class="language-plaintext highlighter-rouge">EBOOT.BIN</code> 和补丁根目录 <code class="language-plaintext highlighter-rouge">偶2-DISC汉化EBOOT.BIN</code>相同，在此放一个EBOOT.BIN仅为了模拟器DISC玩家方便；</p>
+<p>注意，此处<code class="language-plaintext highlighter-rouge">dev_hdd0\game\BLJS10083\USRDIR</code>的<code class="language-plaintext highlighter-rouge">EBOOT.BIN</code> 和补丁根目录 <code class="language-plaintext highlighter-rouge">偶2-DISC汉化EBOOT.BIN</code>相同，</p>
+
+<p>在此放一个EBOOT.BIN仅为了模拟器DISC玩家方便；</p>
 
 <p>如果你是PSN实机DISC版本，请使用<code class="language-plaintext highlighter-rouge">偶2-DISC重签汉化EBOOT.BIN</code>重命名为EBOOT.BIN替换此处。</p>
 
@@ -236,25 +259,44 @@
 
 <p><img src="/images/patch_tut_7.png" alt="7" /></p>
 
-<p>此时完成全部的汉化操作。后续如果有汉化更新，则将更新的补丁文件找到RPCS3游戏安装目录<code class="language-plaintext highlighter-rouge">dev_hdd0</code>中同名文件进行覆盖即可。</p>
+<p>此时完成全部的汉化操作。后续如果有汉化更新，</p>
+
+<p>则将更新的补丁文件找到RPCS3游戏安装目录<code class="language-plaintext highlighter-rouge">dev_hdd0</code>中同名文件进行覆盖即可。</p>
 
 <h3 id="覆盖文件-psn版本npjb00337">覆盖文件 PSN版本(NPJB00337)</h3>
-<p>PSN版本没有<code class="language-plaintext highlighter-rouge">games\</code>目录，所有游戏文件都在<code class="language-plaintext highlighter-rouge">dev_hdd0\game\NPJB00337</code>对应目录下，找到所有对应文件替换即可。注意EBOOT.BIN选择PSN版本汉化的替换</p>
+<p>PSN版本没有<code class="language-plaintext highlighter-rouge">games\</code>目录，所有游戏文件都在<code class="language-plaintext highlighter-rouge">dev_hdd0\game\NPJB00337</code>对应目录下，</p>
 
-<p>注意，PSN版本EBOOT.BIN覆盖位置和DISC版本不同，非DLC文件目录，请在安装游戏本体和更新的<code class="language-plaintext highlighter-rouge">dev_hdd0\game\NPJB00337</code>目录下寻找，使用提供的<code class="language-plaintext highlighter-rouge">偶2-PSN汉化-EBOOT.BIN</code>或者<code class="language-plaintext highlighter-rouge">偶2-PSN重签汉化EBOOT.BIN</code>替换该目录下的<code class="language-plaintext highlighter-rouge">EBOOT.BIN</code></p>
+<p>找到所有对应文件替换即可。注意EBOOT.BIN选择PSN版本汉化的替换</p>
+
+<p>注意，PSN版本EBOOT.BIN覆盖位置和DISC版本不同，非DLC文件目录，</p>
+
+<p>请在安装游戏本体和更新的<code class="language-plaintext highlighter-rouge">dev_hdd0\game\NPJB00337</code>目录下寻找，</p>
+
+<p>使用提供的<code class="language-plaintext highlighter-rouge">偶2-PSN汉化-EBOOT.BIN</code>或者<code class="language-plaintext highlighter-rouge">偶2-PSN重签汉化EBOOT.BIN</code>替换该目录下的<code class="language-plaintext highlighter-rouge">EBOOT.BIN</code></p>
 
 <h3 id="实机玩家的ebootbin-替换">实机玩家的EBOOT.BIN 替换</h3>
-<p>上文补丁中替换的<code class="language-plaintext highlighter-rouge">EBOOT.BIN</code>为模拟器使用的，我们提供了PS3实机<code class="language-plaintext highlighter-rouge">重签名的EBOOT.BIN</code>文件，请PS3实机玩家使用对应的EBOOT文件，重命名为<code class="language-plaintext highlighter-rouge">EBOOT.BIN</code>后替换。</p>
+<p>上文补丁中替换的<code class="language-plaintext highlighter-rouge">EBOOT.BIN</code>为模拟器使用的，</p>
 
-<p>注意，安装DISC版本的玩家，使用<code class="language-plaintext highlighter-rouge">偶2-DISC重签汉化EBOOT.BIN</code>替换目录<code class="language-plaintext highlighter-rouge">dev_hdd0\game\BLJS10083\USRDIR</code>下的EBOOT.BIN；
-安装PSN版本的玩家，使用<code class="language-plaintext highlighter-rouge">偶2-PSN重签汉化EBOOT.BIN</code>替换目录<code class="language-plaintext highlighter-rouge">dev_hdd0\game\NPJB00337</code>或者子目录下存在的EBOOT.BIN</p>
+<p>我们提供了PS3实机<code class="language-plaintext highlighter-rouge">重签名的EBOOT.BIN</code>文件，</p>
 
-<p>如果想要自己重签名，需要将我们提供的模拟器版本EBOOT.</p>
+<p>请PS3实机玩家使用对应的EBOOT文件，重命名为<code class="language-plaintext highlighter-rouge">EBOOT.BIN</code>后替换。</p>
+
+<p>注意，安装DISC版本的玩家，使用<code class="language-plaintext highlighter-rouge">偶2-DISC重签汉化EBOOT.BIN</code></p>
+
+<p>替换目录<code class="language-plaintext highlighter-rouge">dev_hdd0\game\BLJS10083\USRDIR</code>下的EBOOT.BIN；</p>
+
+<p>安装PSN版本的玩家，使用<code class="language-plaintext highlighter-rouge">偶2-PSN重签汉化EBOOT.BIN</code>替换目录<code class="language-plaintext highlighter-rouge">dev_hdd0\game\NPJB00337</code>或者子目录下存在的EBOOT.BIN</p>
+
+<p>如果想要自己重签名，需要将我们提供的模拟器版本EBOOT文件重命名为<code class="language-plaintext highlighter-rouge">EBOOT.ELF</code>，再进行重签。</p>
 
 <h2 id="模拟器其他问题">模拟器其他问题</h2>
 
 <h3 id="启动黑屏">启动黑屏</h3>
-<p>RPCS3对于偶像大师2启动没有OFA稳定，有时会出现启动偶像大师2游戏时窗口黑屏，无法关闭的问题。此时需要强制关闭模拟器，并使用任务管理器（Windows快捷键 Ctrl+Alt+Delete ）等工具完全杀死模拟器进程，重新打开模拟器尝试启动，可能需要多次。</p>
+<p>RPCS3对于偶像大师2启动没有OFA稳定，有时会出现启动偶像大师2游戏时窗口黑屏，无法关闭的问题。此时需要强制关闭模拟器，</p>
+
+<p>并使用任务管理器（Windows快捷键 Ctrl+Alt+Delete ，Linux/MacOS 亦有类似工具）完全杀死模拟器进程，</p>
+
+<p>重新打开模拟器尝试启动，可能需要多次。</p>
 
 <p>如果重试依旧黑屏，可以Configuration→CPU，将SPU Decoder选择为ASMJIT，Apply之后再尝试启动游戏，成功启动之后退出游戏，再改回LLVM启动游戏（ASMJIT性能不如LLVM，正常游戏时推荐依旧选择LLVM）</p>
 
